@@ -39,7 +39,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # 앱 등록
     'category.apps.CategoryConfig',
-    'detail.apps.DetailConfig',
     'join.apps.JoinConfig',
     'inquiry.apps.InquiryConfig',
     'vote.apps.VoteConfig',
